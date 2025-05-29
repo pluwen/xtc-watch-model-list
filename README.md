@@ -5,24 +5,24 @@
 
 ```
 "XTC_D3":       D3
-"XTC_Z8A":      Z8A
-"XTC_Z9":       Z9
-"XTC_Z10":      Z10
-"XTC_Z7S":      Z7S
-"XTC_Z6":       Z6
-"XTC_Z8":       Z8
-"XTC_Z10_SN":   Z10 少年版
-"XTC_Z9_SN":    Z9 少年版
-"XTC_Z5A":      Z5A
-"XTC_Z7":       Z7
-"XTC_Z7A":      Z7A
-"XTC_Z6_DFB":   Z6 巅峰版
-"XTC_XTC Z5q":  Z5q
 "XTC_D3 少儿版": D3 少儿版
-"XTC_Z8_SNB":   Z8 少年版
 "XTC_XTC_Z2y":  Z2y
 "XTC_XTC_Z3":   Z3
+"XTC_Z5A":      Z5A
+"XTC_XTC Z5q":  Z5q
 "XTC_Z5 Pro":   Z5 Pro
+"XTC_Z6":       Z6
+"XTC_Z6_DFB":   Z6 巅峰版
+"XTC_Z7":       Z7
+"XTC_Z7A":      Z7A
+"XTC_Z7S":      Z7S
+"XTC_Z8":       Z8
+"XTC_Z8A":      Z8A
+"XTC_Z8_SNB":   Z8 少年版
+"XTC_Z9":       Z9
+"XTC_Z9_SN":    Z9 少年版
+"XTC_Z10":      Z10
+"XTC_Z10_SN":   Z10 少年版
 "XTC_Z11":      Z11
 ```
 
